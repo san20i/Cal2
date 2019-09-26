@@ -4,7 +4,7 @@
  Author      : Alexandr
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : Privet World in C, Ansi-style
  ============================================================================
  */
 
