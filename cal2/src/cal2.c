@@ -1,7 +1,7 @@
 /*
  ============================================================================
  Name        : cal2.c
- Author      : Alexandr
+ Author      : San20i
  Version     :
  Copyright   : Your copyright notice
  Description : Privet World in C, Ansi-style
@@ -17,7 +17,7 @@ main() {
    float x,y;
    char sign='+';
    while (sign != '0') {
-      printf("Знак: ");
+      printf("Знак: "); 
       scanf("%c%*c", &sign);
       if (sign == '0') { break; }
       if (sign == '+' || sign == '-' || sign == '*' || sign == '/') {
